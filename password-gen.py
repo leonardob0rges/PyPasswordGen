@@ -6,7 +6,7 @@ lower_letters = 'abcdefghijklmnopqrstuvwxyz'
 upper_letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 numbers = '1234567890'
 math_operators = '+-*/<>'
-symbols = '!@#%&*()`´{}[]^~:;.,\|/_'
+symbols = '!@#%&()`´{}[]^~:;.,\|/_'
 currencies='$£¢'
 
 all_chars = lower_letters + upper_letters + numbers + symbols + currencies
