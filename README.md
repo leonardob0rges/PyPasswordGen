@@ -27,4 +27,4 @@ And to execute the program, type:
 python3 password-gen.py
 ```
 <br>
-You can generate passwords with length until 89 characters.
+You can generate passwords with length until 87 characters.
